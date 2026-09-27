@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.longbamall.cn/sitemap.xml
